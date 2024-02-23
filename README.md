@@ -73,8 +73,5 @@ Ensure you have a C++ compiler installed and properly set up on your system to b
 ## Contribution
 If you wish to contribute to this project, please feel free to fork the repository and submit a pull request with your enhancements.
 
-## License
-This Hostel Booking System is open-sourced software licensed under the [MIT license](LICENSE.md).
-
 ## Contact
 For any additional questions or feedback, please open an issue in the repository.
