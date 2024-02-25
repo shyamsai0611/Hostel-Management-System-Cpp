@@ -1,4 +1,4 @@
-# Hostel Booking System
+# Hostel Management System
 
 ## Introduction
 Welcome to the Hostel Booking System project! This C++ console application is designed to manage hostel room bookings, allowing users to book rooms and view details of existing bookings.
